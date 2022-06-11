@@ -50,4 +50,4 @@ $ php artisan serve --port=9000
 ```
 
 ### Dokumentasi API
-Collection [Postman](https://www.getpostman.com/collections/f60e7ffa80e83f637a8d).
+API Documentation in [OpenAPI Format](https://documenter.getpostman.com/view/4152974/Uz5NiYXL).
