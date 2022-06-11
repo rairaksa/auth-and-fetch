@@ -35,6 +35,7 @@ $ php artisan serve --port=8000
 2. Edit .env dengan menambahkan/mengubah konfigurasi berikut :
 ```
 JWT_SECRET=jwt-secret // samakan dengan JWT_SECRET pada auth_apps
+CURRENCY_KEY=currency-key // API Key yang bisa didapatkan dari Exhange Rates Data APILayer
 ```
 3. Setelah menyiapkan file environment, lalu install dan jalankan aplikasi melalui perintah berikut :
 ```
